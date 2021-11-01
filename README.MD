@@ -8,7 +8,7 @@
   ![image](https://user-images.githubusercontent.com/88414480/139729255-de4cd859-614f-43d0-8ecc-beeaf20e635f.png)
 
 
-  -[React-Native}{
+  -[React-Native}
   Version:"0.66.1"
   
   ##🏗️ Running
@@ -64,6 +64,7 @@
   ├─services
     <br>
     ├─App   #aplication entry
+  }
 
 
 
